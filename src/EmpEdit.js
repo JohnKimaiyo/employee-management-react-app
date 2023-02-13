@@ -120,4 +120,3 @@ const EmpEdit = () => {
 }
  
 export default EmpEdit;
-Footer
